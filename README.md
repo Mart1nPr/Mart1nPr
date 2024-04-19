@@ -1,3 +1,3 @@
-### Hello, welcome to my GitHub profile!
+### Tallinna Polütehnikumi õpilane (1. Kursus)
 
 
