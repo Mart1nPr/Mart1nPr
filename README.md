@@ -1,3 +1,3 @@
-### Tallinna Polütehnikumi õpilane.
+### Tallinna Polütehnikumi õpilane. (1. Kursus)
 
 
