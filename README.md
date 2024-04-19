@@ -1,3 +1,3 @@
-### Tallinna Polütehnikumi 1. Kursuse õpilane (Tarkvaraarendaja) 
+### Tallinna Polütehnikumi õpilane.
 
 
