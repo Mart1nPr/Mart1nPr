@@ -1,2 +1,2 @@
-<h1 align="center">Teretulemast mu profiilile</h1>
-<h3 align="center">Tallinna Polütehnikumi õpilane</h3>
+<h1 align="center">Tere</h1>
+<h3 align="center">Lisan oma harjutuste repod siia</h3>
