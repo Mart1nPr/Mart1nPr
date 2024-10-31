@@ -1,3 +1,3 @@
-<h2 align="center">Hello, I'm Martin</h2>
-<h3 align="center">Welcome to my profile!</h3>
+<h3 align="center">Hello, I'm Martin</h3>
+<h4 align="center">Welcome to my profile!</h4>
 <h3 align="center">I am a software dev student at TPT</h3>
